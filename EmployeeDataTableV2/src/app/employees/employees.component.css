@@ -1,0 +1,29 @@
+.pagination{
+    padding: 20px 16px;
+    float: right;
+    font-size: 15px;
+
+}
+.pagination::ng-deep .ngx-pagination .current{
+    background: rgb(22, 70, 126);
+}
+
+
+.dropright .dropdown-menu.show{
+    background: none;
+    padding: 2px;
+    border: none;
+}
+.dropdown-menu {
+    width: 300px !important;
+}
+.dropright .dropdown-menu {
+    top: 1px;
+    right: auto;
+    left: 100%;
+    margin-top: -2px;
+    margin-left: 1.125rem;
+}
+/* table tbody tr td div a {
+
+} */
