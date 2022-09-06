@@ -1,0 +1,84 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Manikandan",
+      "email": "mani@gmail.com",
+      "designation": "Software Engineer",
+      "department": "Software Development",
+      "date": "2019-03-29",
+      "status": "Permanent",
+      "salary": "350000"
+    },
+    {
+      "id": 2,
+      "name": "Ankraj",
+      "email": "ank@gmail.com",
+      "designation": "Network Engineer",
+      "department": "Netwowk",
+      "date": "2020-04-09",
+      "status": "Permanent",
+      "salary": 300000
+    },
+    {
+      "id": 3,
+      "name": "Gowtham",
+      "email": "gowtham1@gmail.com",
+      "designation": "Devops Engineer",
+      "department": "Software Development",
+      "date": "2019-03-29",
+      "status": "Temporary",
+      "salary": 280000
+    },
+    {
+      "id": 4,
+      "name": "dhilip",
+      "email": "dhilip@gmail.com",
+      "designation": "Devops Engineer",
+      "department": "Software Development",
+      "date": "2020-12-25",
+      "status": "Permanent",
+      "salary": 300000
+    },
+    {
+      "id": 5,
+      "name": "ashwin",
+      "email": "ashwin@gmail.com",
+      "designation": "Software architect",
+      "department": "Software Development",
+      "date": "2021-06-12",
+      "status": "Permanent",
+      "salary": 400000
+    },
+    {
+      "id": 6,
+      "name": "Ramesh",
+      "email": "Ramesh@gmail.com",
+      "designation": "Software Design",
+      "department": "Software Development",
+      "date": "2021-09-02",
+      "status": "Permanent",
+      "salary": 450000
+    },
+    {
+      "id": 7,
+      "name": "Ragu",
+      "email": "ragu@gmail.com",
+      "designation": "Software Analyst",
+      "department": "Software Analys",
+      "date": "2022-01-22",
+      "status": "Temporary",
+      "salary": 280000
+    },
+    {
+      "id": 8,
+      "name": "Sakthi",
+      "email": "sakthi@gmail.com",
+      "designation": "Security Engineer",
+      "department": "Software Security",
+      "date": "2022-04-15",
+      "status": "Temporary",
+      "salary": "300000"
+    }
+  ]
+}
